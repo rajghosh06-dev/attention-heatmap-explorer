@@ -1,7 +1,5 @@
 # Attention Heatmap Explorer
 
-# Attention Heatmap Explorer
-
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.10-orange?style=flat&logo=pytorch)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10-green?style=flat&logo=plotly)
@@ -80,5 +78,10 @@ The notebook will generate and save the visualization as:
 - A **saved heatmap image** in `/images`.  
 - A **README** that looks professional on GitHub.  
 
+## Author
+**Rishit Ghosh**  
+B.Tech CSE (AI & ML),  
+Geethanjali College of Engineering and Technology  
+GitHub Profile: [(rajghosh06-dev)](https://github.com/rajghosh06-dev/)
 
 ---
