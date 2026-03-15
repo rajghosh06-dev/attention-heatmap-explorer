@@ -68,7 +68,7 @@ The notebook will generate and save the visualization as:
 
 
 > Directories for reference:
->>Click [`here`](/Attention-Heatmap-Explorer.ipynb) to check out the image's directory!  
+>>Click [`here`](/Attention-Heatmap-Explorer.ipynb) to check out the Notebook's directory!  
 >>Click [`here`](/images/attention_heatmap.png) to check out the image's directory!
 
 ---
