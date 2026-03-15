@@ -57,7 +57,7 @@ The heatmap shows that the word **"it"** attends strongly to **"animal"**.
    ```
 2. Launch Jupyter Notebook:
    ```bash
-   jupyter notebook Attention_Heatmap_Explorer.ipynb
+   jupyter notebook Attention-Heatmap-Explorer.ipynb
    ```
 3. Run all cells to generate the attention heatmap.
 
